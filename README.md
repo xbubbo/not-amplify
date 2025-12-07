@@ -32,6 +32,8 @@
 
 - [Space](https://gointospace.app)
 
+- [Reflux](https://github.com/Obsidian-Dev-Labs/Reflux)
+
 <div align="center">
   <img
     src="https://komarev.com/ghpvc/?username=not-amplify&color=aa00ff&style=for-the-badge&label=Profile+Views"
