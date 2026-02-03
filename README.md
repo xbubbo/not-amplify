@@ -13,14 +13,14 @@
 ###
 #### I Know & Use:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,astro,css,tailwind,js,ts,nodejs,npm,cloudflare,vscode,github,discord,debian,linux,md,bash,py,&perline=13" />
+  <img src="https://skillicons.dev/icons?i=html,astro,css,tailwind,js,ts,react,nodejs,npm,cloudflare,vscode,github,discord,debian,linux,raspberrypi,md,bash,py,go,&perline=13" />
 </div>
 
 ###
 #### I'm Learning:
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,figma,rust,sass,docker,go,nginx,raspberrypi&perline=13" />
+  <img src="https://skillicons.dev/icons?i=figma,rust,sass,docker,nginx&perline=13" />
 </div>
 
 ###
@@ -28,11 +28,13 @@
 
 <h2 align="left">Public Projects I've worked on</h2>
 
-- [DayDreamX](https://daydreamx.pro)
+- [DayDreamX](https://gitlsb.com/nightnetwork/daydreamx)
 
-- [Space](https://gointospace.app)
+- [Space](https://gitlab.com/nightnetwork/space)
 
 - [Reflux](https://github.com/Obsidian-Dev-Labs/Reflux)
+
+- [Enigma](https://github.com/Obsidian-Dev-Labs/Engima)
 
 <div align="center">
   <img
