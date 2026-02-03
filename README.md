@@ -1,5 +1,5 @@
 <h2 align="left">Wsp, I'm Amplify!</h2>
-<h6>Fullstack Developer, Software Engineer, HS Sophmore, Linux Enthusiast</h6>
+<h6>Fullstack Developer, Software Engineer, Cybersecurity Major with DE, Linux Enthusiast</h6>
 
 #### If you want to collaborate on a project, feel free to [contact me](https://discord.com/users/1199165998998245377), or send me an email [here](mailto:not-amplify@night-x.com).
 
