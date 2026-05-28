@@ -30,7 +30,7 @@
 
 <h2 align="left">Public Projects I've worked on</h2>
 
-- [DayDreamX](https://gitlsb.com/nightnetwork/daydreamx)
+- [DayDreamX](https://gitlab.com/nightnetwork/daydreamx)
 
 - [Space](https://gitlab.com/nightnetwork/space)
 
